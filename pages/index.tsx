@@ -1,6 +1,12 @@
+import Head from "next/head"
+
 export default function Index() {
     return (
         <>
+        <Head>
+            <title>Seohyeon's Website</title>
+            <meta name="description" "welcome to my portfolio! :)"/>
+        </Head>
             <div id="container">
                 <div id = "top-section">
                     <img id = "prof-pic" src = "/points.png" alt = "test profile picture"></img>
@@ -9,7 +15,6 @@ export default function Index() {
                     <br/>Thanks for visiting my page!</p>
                 </div>
             </div>
-            <h1 id = "title">Art</h1>
             <div className="flex-container">
                     <div id = "art" className = "flex-container2">
                     <h2>My Imaginary World</h2>
