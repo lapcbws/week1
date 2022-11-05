@@ -5,7 +5,7 @@ export default function Index() {
         <>
         <Head>
             <title>Seohyeon's Website</title>
-            <meta name="description" "welcome to my portfolio! :)"/>
+            <meta name="description" value="welcome to my portfolio! :)"/>
         </Head>
             <div id="container">
                 <div id = "top-section">

@@ -26,7 +26,7 @@ p{
 
 .flex-container {
     display: flex;
-    flex-flow: column wrap;
+    /* flex-flow: column wrap; */
     gap: 10px;
 }
 
