@@ -40,16 +40,15 @@ p{
 .flex-container2 {
     width: 100%;
     height: auto;
-    display: flex;
-    flex-flow: row wrap;
+    /* display: flex; */
+    /* flex-flow: row wrap; */
 }
 
 .flex-items {
-    width: 
 }
 
 .demo-image {
-    max-width: 90%;
+    width: 100%;
 }
 
 
