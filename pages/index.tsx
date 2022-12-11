@@ -4,8 +4,8 @@ export default function Index() {
     return (
         <>
         <Head>
-            <title>Seohyeon's Website</title>
-            <meta name="description" content="welcome to my portfolio! :)"/>
+            <title>Seohyeon's Art Poerfolio</title>
+            <meta name="description" content="welcome to my imaginary world! :)"/>
             
         </Head>
             <div id="container">
@@ -27,6 +27,7 @@ export default function Index() {
                     <div id = "art" className = "flex-container2">
                         <h2>Digital Illustrations <br/>@ TSL</h2>
                         <img className= "demo-image"   src = "/shame.png" alt = "shame is a time bomb that grows coiling in your mind"></img>
+                        <img className= "demo-image"   src = "/dread.png" alt = "existential dread looming over young person in a panic"></img>
                         
                     </div>
             </div>
