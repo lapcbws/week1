@@ -1,9 +1,3 @@
-# Web Dev for Makers Starter NextJS Template
+# Art Portfolio (under construction)
 
-Use to bootstrap class (or future out-of-class) projects.
-
-To use this template, first make sure you have Node installed, and then run in your terminal:
-
-```
-npx create-next-app -e https://github.com/webdevformakers/webdevformakers-basic-template
-```
+Hello! This is my art portfolio based on Samson Zhang's template(https://github.com/webdevformakers/webdevformakers-basic-template). 
