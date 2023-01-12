@@ -14,8 +14,11 @@ alt:"existential dread looming over young person in a panic"},
 {src:"/shame.png",
 alt:"shame is a time bomb that grows coiling in your mind"},
 {src:"/shade.png",
-alt:"illustration to article about heatwave",
-url:"https://tsl.news/opinion-the-5cs-need-to-be-more-shady/"}
+alt:"Illustration to article about heatwave. Light-green blob is melting in a background fizzling into red and yellow. It has a thought bubble on top of it depicting a forest.",
+url:"https://tsl.news/opinion-the-5cs-need-to-be-more-shady/"},
+{src:"/hybrid-learning.png",
+alt:"illustration to article about hybrid learning. ",
+url:"https://tsl.news/opinion-the-5cs-should-make-their-courses-hybrid-flexible-this-semester/"}
 ]
 
 export default function Index() {
