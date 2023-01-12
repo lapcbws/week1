@@ -3,31 +3,40 @@ body {
     margin: 0;
     font-family: "Inter", sans-serif;
 }
+
+#profile {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+
+}
 #title {
-    font-size: 56px;
-    line-height: 72px;
+    font-size: 48px;
+    font-weight: bold;
     text-align: center;
 }
-p{
+#top-section {
+    width: inherit;
+    text-align: center;
     font-size: 24px;
-    line-height: 40px;
+    line-height: 1.5em;
+    margin: 20px;
 }
 
 #prof-pic {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
+    width: 50vh;
+    height: 50vh;
+    border-radius: 100vh;
 }
 
-#top-section {
-    text-align: center;
-    padding: 60px 20px 20px 20px;
-}
+
 
 .flex-container {
     display: flex;
     /* flex-flow: column wrap; */
-    gap: 10px;
+    gap: 20px;
 }
 
 #art{
@@ -40,15 +49,18 @@ p{
 .flex-container2 {
     width: 100%;
     height: auto;
+    margin: 20px; /* why isn't this applying to the webpage????*/
     /* display: flex; */
     /* flex-flow: row wrap; */
 }
 
 .flex-items {
+
 }
 
 .demo-image {
     width: 100%;
+    margin-bottom: 5%;
 }
 
 
