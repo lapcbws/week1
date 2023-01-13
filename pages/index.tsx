@@ -18,8 +18,7 @@ alt:"Illustration to article about heatwave. Light-green blob is melting in a ba
 url:"https://tsl.news/opinion-the-5cs-need-to-be-more-shady/"},
 {src:"/hybrid-learning.png",
 alt:"illustration to article about hybrid learning. ",
-url:"https://tsl.news/opinion-the-5cs-should-make-their-courses-hybrid-flexible-this-semester/"}
-]
+url:"https://tsl.news/opinion-the-5cs-should-make-their-courses-hybrid-flexible-this-semester/"}];
 
 export default function Index() {
     return (
